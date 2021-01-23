@@ -1117,7 +1117,10 @@
     border: 0px;
     border-radius: 3px;
     padding: 1px 6px;
-} 
+}
+.yzecoriolis.sheet.actor .sheet-body a.entity-link:hover {
+    text-shadow: none;
+}
 .yzecoriolis.sheet.actor .sheet-body a.entity-link i {
     color: #ffffff;
 }
